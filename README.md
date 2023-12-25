@@ -1,2 +1,2 @@
 # Angular
-Angular - applications
+Angular - Assignments
